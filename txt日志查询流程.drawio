@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T10:13:39.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_3GNDz1zvVD6p1CBasbm" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T10:16:34.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="uSY6fThw1Z3pQxq616FF" version="21.2.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,6 +107,15 @@
         </mxCell>
         <mxCell id="nOgqFqpl8-SV1x2qPiuf-65" value="No" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="279" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nOgqFqpl8-SV1x2qPiuf-67" value="图例：&lt;font color=&quot;#b85450&quot;&gt;红色为传感特有逻辑&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="539" y="920" width="191" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nOgqFqpl8-SV1x2qPiuf-68" value="&lt;font color=&quot;#82b366&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 绿色为第三方特有逻辑&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="950" width="191" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nOgqFqpl8-SV1x2qPiuf-69" value="&amp;nbsp; &amp;nbsp; 黑色为共有逻辑" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="980" width="191" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
