@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T03:01:14.589Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bsAtW7U9aZUFgVCTX_aq" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T03:06:57.936Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3WTklT0Gob0sEQS4FNg8" version="21.3.7" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -94,14 +94,17 @@
         <mxCell id="G05Mr0gne3w-dCdow3Co-170" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="G05Mr0gne3w-dCdow3Co-160" target="G05Mr0gne3w-dCdow3Co-167">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="G05Mr0gne3w-dCdow3Co-187" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="G05Mr0gne3w-dCdow3Co-160" target="G05Mr0gne3w-dCdow3Co-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G05Mr0gne3w-dCdow3Co-160" value="单服务机架构" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="410" y="520" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G05Mr0gne3w-dCdow3Co-165" value="单点故障" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="570" y="420" width="90" height="30" as="geometry" />
+          <mxGeometry x="560" y="480" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G05Mr0gne3w-dCdow3Co-167" value="无容灾，要求高可用性时，无法满足" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="570" y="490" width="240" height="30" as="geometry" />
+          <mxGeometry x="560" y="560" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G05Mr0gne3w-dCdow3Co-175" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="G05Mr0gne3w-dCdow3Co-172" target="G05Mr0gne3w-dCdow3Co-174">
           <mxGeometry relative="1" as="geometry" />
@@ -109,14 +112,23 @@
         <mxCell id="G05Mr0gne3w-dCdow3Co-181" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="G05Mr0gne3w-dCdow3Co-172" target="G05Mr0gne3w-dCdow3Co-180">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="G05Mr0gne3w-dCdow3Co-184" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="G05Mr0gne3w-dCdow3Co-172" target="G05Mr0gne3w-dCdow3Co-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G05Mr0gne3w-dCdow3Co-185" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="G05Mr0gne3w-dCdow3Co-172" target="G05Mr0gne3w-dCdow3Co-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G05Mr0gne3w-dCdow3Co-172" value="单库架构" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="420" y="720" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G05Mr0gne3w-dCdow3Co-174" value="单点故障" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="550" y="680" width="90" height="30" as="geometry" />
+          <mxGeometry x="560" y="690" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G05Mr0gne3w-dCdow3Co-180" value="手动备份，对数据安全性高时，无法满足" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="550" y="750" width="260" height="30" as="geometry" />
+          <mxGeometry x="560" y="760" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G05Mr0gne3w-dCdow3Co-183" value="mysql吃IO性能，不适合放在docker" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="560" y="840" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
