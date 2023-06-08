@@ -1,63 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T03:06:57.936Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3WTklT0Gob0sEQS4FNg8" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T03:07:40.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DrIrPrx-2oFhGkE1CB5X" version="21.3.7" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="G05Mr0gne3w-dCdow3Co-117" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="G05Mr0gne3w-dCdow3Co-112" target="G05Mr0gne3w-dCdow3Co-116">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G05Mr0gne3w-dCdow3Co-122" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="G05Mr0gne3w-dCdow3Co-112" target="G05Mr0gne3w-dCdow3Co-116">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G05Mr0gne3w-dCdow3Co-123" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="G05Mr0gne3w-dCdow3Co-112" target="G05Mr0gne3w-dCdow3Co-116">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G05Mr0gne3w-dCdow3Co-125" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="G05Mr0gne3w-dCdow3Co-112" target="G05Mr0gne3w-dCdow3Co-124">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G05Mr0gne3w-dCdow3Co-112" value="业务场景分析" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="105" y="210" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="G05Mr0gne3w-dCdow3Co-136" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="G05Mr0gne3w-dCdow3Co-116" target="G05Mr0gne3w-dCdow3Co-135">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G05Mr0gne3w-dCdow3Co-137" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="G05Mr0gne3w-dCdow3Co-116" target="G05Mr0gne3w-dCdow3Co-135">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G05Mr0gne3w-dCdow3Co-140" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="G05Mr0gne3w-dCdow3Co-116" target="G05Mr0gne3w-dCdow3Co-139">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G05Mr0gne3w-dCdow3Co-116" value="IO密集型应用" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="250" y="170" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="G05Mr0gne3w-dCdow3Co-124" value="CPU密集型应用" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="245" y="230" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="G05Mr0gne3w-dCdow3Co-142" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="G05Mr0gne3w-dCdow3Co-135" target="G05Mr0gne3w-dCdow3Co-141">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G05Mr0gne3w-dCdow3Co-152" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="G05Mr0gne3w-dCdow3Co-135" target="G05Mr0gne3w-dCdow3Co-151">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G05Mr0gne3w-dCdow3Co-135" value="网络IO" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="430" y="130" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="G05Mr0gne3w-dCdow3Co-148" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="G05Mr0gne3w-dCdow3Co-139" target="G05Mr0gne3w-dCdow3Co-147">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G05Mr0gne3w-dCdow3Co-139" value="文件IO" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="430" y="210" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="G05Mr0gne3w-dCdow3Co-141" value="http请求" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="550" y="90" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="G05Mr0gne3w-dCdow3Co-147" value="硬盘数据读写" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="535" y="210" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="G05Mr0gne3w-dCdow3Co-151" value="TCP/UDP请求" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="550" y="140" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="G05Mr0gne3w-dCdow3Co-155" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="G05Mr0gne3w-dCdow3Co-153" target="G05Mr0gne3w-dCdow3Co-154">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -97,6 +43,9 @@
         <mxCell id="G05Mr0gne3w-dCdow3Co-187" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="G05Mr0gne3w-dCdow3Co-160" target="G05Mr0gne3w-dCdow3Co-167">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="G05Mr0gne3w-dCdow3Co-189" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="G05Mr0gne3w-dCdow3Co-160" target="G05Mr0gne3w-dCdow3Co-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G05Mr0gne3w-dCdow3Co-160" value="单服务机架构" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="410" y="520" width="120" height="30" as="geometry" />
         </mxCell>
@@ -104,7 +53,7 @@
           <mxGeometry x="560" y="480" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G05Mr0gne3w-dCdow3Co-167" value="无容灾，要求高可用性时，无法满足" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="560" y="560" width="240" height="30" as="geometry" />
+          <mxGeometry x="555" y="560" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G05Mr0gne3w-dCdow3Co-175" value="" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="G05Mr0gne3w-dCdow3Co-172" target="G05Mr0gne3w-dCdow3Co-174">
           <mxGeometry relative="1" as="geometry" />
